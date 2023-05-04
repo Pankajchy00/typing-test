@@ -1,5 +1,5 @@
-DOINGwords = ['mango','laptop','this','ram','Apple','graps','tiger','linc','thakur','skit','For','ten','years','his','land','is','left','vacant','and if','everybody','starts','doing',
-'same','thing then there is shortage','of labourers because','of shortage','labourers','interested','doing','job such issues','will be there']
+words = ['mango','laptop','this','ram','Apple','graps','tiger','linc','thakur','skit','For','ten','years','his','land','is','left','vacant','and if','everybody','starts','doing',
+'same','thing', 'then', 'there is shortage','of labourers because','of shortage','labourers','interested','doing','job such issues','will be there']
 
 def labelSlider():
     global count,sliderWords
